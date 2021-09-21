@@ -1,0 +1,27 @@
+/* -------------------------------------------------
+                     VAR
+---------------------------------------------------- */
+:root {
+  /*
+    COLOR
+  ---------------------------------------------------- */
+  /* background-color */
+  --BC-title: #b0d9cd;
+  --BC-main: #e4eddc;
+  /* --BC-list: #E4EDDC; */
+  --BC-item: #f3f6ed;
+
+  /* font-color */
+  --FC-title: #fff;
+  --FC-item: #fff;
+  /*
+    FONT
+  ---------------------------------------------------- */
+  /* font-size px */
+  --FS-title--px: 30px;
+  --FS-item--px: 20px;
+
+  /* font-size rem */
+  --FS-title--rem: 3rem;
+  --FS-item--rem: 2rem;
+}
