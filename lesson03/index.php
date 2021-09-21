@@ -13,9 +13,9 @@
 <body>
   <div class="l-wrap">
     <header class="l-header">
-      <?php 
-      echo "<h1 class='l-header__title'>PHP,curriculum - lesson03</h1>";
-      ?>
+      <h1 class='l-header__title'>
+        <a href="/">PHP,curriculum - lesson03</a>
+      </h1>
     </header>
     <main class="l-main">
       <ul class="p-list">

@@ -71,9 +71,9 @@ $array = [
 <body>
   <div class="l-wrap">
     <header class="l-header">
-      <?php 
-      echo "<h1 class='l-header__title'>PHP,curriculum - lesson06</h1>";
-      ?>
+      <h1 class='l-header__title'>
+        <a href="/">PHP,curriculum - lesson06</a>
+      </h1>
     </header>
     <main class="l-main">
       <ul class="p-list">

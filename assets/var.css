@@ -1,0 +1,36 @@
+/* -------------------------------------------------
+                     VAR
+---------------------------------------------------- */
+:root {
+  /*
+    COLOR
+  ---------------------------------------------------- */
+  /* background-color */
+  --BC-header: #b0d9cd;
+  --BC-main: #e4eddc;
+  /* --BC-main__title: #5e9bae; */
+  /* --BC-list: #E4EDDC; */
+  --BC-lesson__title: #5e9bae;
+  --BC-lesson__item--odd: #f3f6ed;
+  --BC-lesson__item--even: #eeeeee;
+
+  /* font-color */
+  --FC-header: #fff;
+  --FC-main__title: #fff;
+  --FC-lesson__title: #fff;
+  --FC-lesson__item: #000;
+  /*
+    FONT
+  ---------------------------------------------------- */
+  /* font-size px */
+  --FS-header--px: 30px;
+  --FS-main__title--px: 20px;
+  --FS-lesson__title--px: 20px;
+  --FS-lesson__item--px: 20px;
+
+  /* font-size rem */
+  --FS-header--rem: 3rem;
+  --FS-main__title--rem: 2rem;
+  --FS-lesson__title--rem: 2rem;
+  --FS-lesson__item--rem: 2rem;
+}

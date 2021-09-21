@@ -24,9 +24,9 @@ $data = [
 <body>
   <div class="l-wrap">
     <header class="l-header">
-      <?php 
-      echo "<h1 class='l-header__title'>PHP,curriculum - lesson02</h1>";
-      ?>
+      <h1 class='l-header__title'>
+        <a href="/">PHP,curriculum - lesson02</a>
+      </h1>
     </header>
     <main class="l-main">
       <?php 
