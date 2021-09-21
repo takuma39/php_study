@@ -1,0 +1,31 @@
+/* -------------------------------------------------
+                     VAR
+---------------------------------------------------- */
+:root {
+  /*
+    COLOR
+  ---------------------------------------------------- */
+  /* background-color */
+  --BC-header: #b0d9cd;
+  --BC-main: #e4eddc;
+  --BC-main__title: #5e9bae;
+  /* --BC-list: #E4EDDC; */
+  --BC-item: #f3f6ed;
+
+  /* font-color */
+  --FC-header: #fff;
+  --FC-main__title: #fff;
+  --FC-item: #fff;
+  /*
+    FONT
+  ---------------------------------------------------- */
+  /* font-size px */
+  --FS-header--px: 30px;
+  --FS-main__title--px: 20px;
+  --FS-item--px: 20px;
+
+  /* font-size rem */
+  --FS-header--rem: 3rem;
+  --FS-main__title--rem: 2rem;
+  --FS-item--rem: 2rem;
+}

@@ -1,0 +1,62 @@
+/* -------------------------------------------------
+  .l-header
+---------------------------------------------------- */
+.l-header {
+  height: 10vh;
+  text-align: center;
+  line-height: 10vh;
+  font-size: var(--FS-header--px);
+  font-size: var(--FS-header--rem);
+  background-color: var(--BC-header);
+  color: var(--FC-header);
+}
+
+/* -------------------------------------------------
+  .l-main
+---------------------------------------------------- */
+.l-main {
+  width: 100%;
+  height: 90vh;
+  background-color: var(--BC-main);
+  padding-top: 20px;
+}
+
+/*
+  .l-main__title
+---------------------------------------------------- */
+.l-main__title {
+  width: 80%;
+  height: 5vh;
+  line-height: 5vh;
+  margin: 0 auto;
+  text-align: center;
+  background-color: var(--BC-main__title);
+  color: var(--FC-main__title);
+  font-size: var(--FS-main__title--px);
+  font-size: var(--FS-main__title--rem);
+}
+
+/* -------------------------------------------------
+  .p-list
+---------------------------------------------------- */
+.p-list {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+/* 
+  .p-list__item
+---------------------------------------------------- */
+.p-list__item {
+  width: 100%;
+  padding: 20px 0;
+  background-color: var(--BC-item);
+  font-size: var(--FS-item--px);
+  font-size: var(--FS-item--rem);
+  text-align: center;
+}
+
+.p-list__item:not(:first-child) {
+  margin-top: 20px;
+}
